@@ -1,3 +1,3 @@
 # Git fun
 
-Hi
+Hi there!
